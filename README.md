@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  - 🔭 I’m currently working as a **Technology Analyst at Infosys**, focusing on modernizing backend systems and developing scalable microservices using **Java, Spring Boot, JavaScript, Next.js, and PostgreSQL**. I'm also actively building **Generative AI and Agentic AI solutions** for various hackathon projects.
+  - 🌱 I’m currently learning more about advanced **Agentic AI frameworks**, **fine-tuning LLMs**, and exploring their applications in enterprise solutions.
+  - 👯 I’m looking to collaborate on **innovative Generative AI projects, Agentic AI solutions**, and any open-source initiatives focused on backend development or cloud technologies.
+  - 🤔 I’m always looking for help with optimizing **LLM performance** in real-world applications and exploring new strategies for **cost-effective cloud deployments**.
+  - 💬 Ask me about **backend development, microservices architecture, deploying applications on AWS S3, OpenShift, or Azure, or anything related to Generative AI and Agentic AI\!**
+  - 📫 How to reach me: You can connect with me on [LinkedIn](https://www.google.com/search?q=https://linkedin.com/in/ghvardhan569/) or email me at **ghvardhan123@gmail.com**.
+  - ⚡ Fun fact: I'm a **Movie Lover, Traveller, Introvert**
+
+-----
