@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   - 👯 I’m looking to collaborate on **innovative Generative AI projects, Agentic AI solutions**, and any open-source initiatives focused on backend development or cloud technologies.
   - 🤔 I’m always looking for help with optimizing **LLM performance** in real-world applications and exploring new strategies for **cost-effective cloud deployments**.
   - 💬 Ask me about **backend development, microservices architecture, deploying applications on AWS S3, OpenShift, or Azure, or anything related to Generative AI and Agentic AI\!**
-  - 📫 How to reach me: You can connect with me on [LinkedIn](https://www.google.com/search?q=https://linkedin.com/in/ghvardhan569/) or email me at **ghvardhan123@gmail.com**.
+  - 📫 How to reach me: You can connect with me on [LinkedIn](https://linkedin.com/in/ghvardhan569/) or email me at **ghvardhan123@gmail.com**.
   - ⚡ Fun fact: I'm a **Movie Lover, Traveller, Introvert**
 
 -----
